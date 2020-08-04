@@ -4,7 +4,7 @@
 
 ![](react.gif)
 
-O desafio consiste em desenvolver uma aplicação que permita criar caixas de textos com o mouse conforme exemplo acima. Lembrando que você deve clicar, segurar, arrastar e soltar para criar a caixa de texto!
+O desafio consiste em desenvolver uma aplicação que permita criar caixas de textos com o mouse conforme exemplo acima.
 
 ## Funcionalidades
 
